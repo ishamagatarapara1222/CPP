@@ -14,3 +14,7 @@
 
 ### PR-4 Banking System
 ![pr-4 q-1](pr_4_op.png)
+
+### PR-5 Library Management System
+![pr-5 q-1](pr_5_op_1.png)
+![pr-5 q-1](pr_5_op_2.png)
